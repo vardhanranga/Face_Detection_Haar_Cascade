@@ -2,8 +2,6 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-## For further technical details click [here](https://viswalahiri.github.io/Face_Detection_Haar_Cascade/scripts/)
-
 ## Description
 
 Face detection performed with the help of the Haar Cascade Frontal Face Model.
@@ -58,17 +56,17 @@ Photos corresponding to individual faces get pushed to the folder specified in p
 If you found any mistakes in my code, or if you can enhance the quality of documention, please feel free to contribute!
 Here are 3 steps to contributing.
 
-1. [Fork](https://github.com/Viswalahiri/Face_Detection_Haar_Cascade/fork) this project.
+1. [Fork](https://github.com/vardhanranga/Face_Detection_Haar_Cascade/fork) this project.
 2. Commit your changes.
-3. Create a new Pull Request and link an [issue](https://github.com/Viswalahiri/Face_Detection_Haar_Cascade/issues/new) with it.
+3. Create a new Pull Request and link an [issue](https://github.com/vardhanranga/Face_Detection_Haar_Cascade/issues/new) with it.
 
 
-## Meta [![GitHub followers](https://img.shields.io/github/followers/viswalahiri.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/viswalahiri?tab=followers)
+## Meta [![GitHub followers](https://img.shields.io/github/followers/vardhanranga.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vardhanranga?tab=followers)
 
 
 | Name | Github | LinkedIn | E-mail | Phone|
 | --- | --- | --- | --- | --- |
-| Viswalahiri Swamy Hejeebu | [@viswalahiri](https://github.com/viswalahiri) | [@viswalahiri](https://www.linkedin.com/in/viswalahiri/) |[E-mail](mailto:viswalahiriswamyh@gmail.com) | [(+91) 630-152-9655](tel:+916301529655)
+| Vardhan Ranga | [@vardhan](https://github.com/vardhanranga) | [@vardhan](https://www.linkedin.com/in/https://www.linkedin.com/in/srivardhan-ranga/) |[E-mail](mailto:vardhanranga@gmail.com) | [(+91) 986-668-9944](tel:+919866689944)
 
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT). See [`LICENSE`](https://github.com/Viswalahiri/Face_Detection_Haar_Cascade/blob/master/LICENSE) for more information.
+Distributed under the [MIT License](https://opensource.org/licenses/MIT). See [`LICENSE`](https://github.com/vardhanranga/Face_Detection_Haar_Cascade/blob/master/LICENSE) for more information.
